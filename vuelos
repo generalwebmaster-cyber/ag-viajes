@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Búsqueda de vuelos</title>
+</head>
+<body>
+
+<h1>Búsqueda de vuelos</h1>
+
+<form>
+    <label>Origen:</label>
+    <input type="text" placeholder="Ciudad origen">
+
+    <br><br>
+
+    <label>Destino:</label>
+    <input type="text" placeholder="Ciudad destino">
+
+    <br><br>
+
+    <label>Fecha:</label>
+    <input type="date">
+
+    <br><br>
+
+    <button>Buscar vuelo</button>
+</form>
+
+</body>
+</html>
